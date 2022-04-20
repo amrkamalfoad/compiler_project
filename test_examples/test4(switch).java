@@ -18,6 +18,11 @@ class Main {
       case 48:
         size = "Extra Large";
         break;
+      default:
+        size = "Unknown";
+        break;
+        }
+        System.out.println("Size: " + size);
         }
         }
-        }
+        
