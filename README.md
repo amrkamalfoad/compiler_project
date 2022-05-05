@@ -20,7 +20,6 @@ using txt file generate html file with
 
 #### - Red lines for un_visited blocks
 
-## final output 
-![image](/image_RM/htmlimg.png)
+## final output html file 
 
 <img src="/image_RM/htmlimg.PNG" alt="Alt text" title="Optional title">
