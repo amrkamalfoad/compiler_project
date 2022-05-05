@@ -22,7 +22,7 @@ using txt file generate html file with
 
 ### - finally 
 
-generate goxygn Documentation 
+generate goxygen Documentation 
 
 ## final output html file 
 
