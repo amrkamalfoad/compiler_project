@@ -23,4 +23,4 @@ using txt file generate html file with
 ## final output 
 ![image](/image_RM/htmlimg.png)
 
-<img src="/image_RM/htmlimg.png" alt="Alt text" title="Optional title">
+<img src="/image_RM/htmlimg.PNG" alt="Alt text" title="Optional title">
