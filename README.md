@@ -19,3 +19,7 @@ using txt file generate html file with
 #### - Green lines for visited blocks
 
 #### - Red lines for un_visited blocks
+
+## final output 
+![image](image_RM/htmlimg.png)
+
