@@ -21,5 +21,6 @@ using txt file generate html file with
 #### - Red lines for un_visited blocks
 
 ## final output 
-![image](image_RM\htmlimg.png)
+![image](/image_RM/htmlimg.png)
 
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
